@@ -1,0 +1,6 @@
+1. Mỗi loại công việc (Job Title) nên chọn công ty nào để được trả lương (Salary Estimate) cao nhất và xếp hạng cao (Rating)? 
+=> ý nghĩa: chọn được công việc ở công ty tốt và có mức lương tốt nhất 
+2. Lĩnh vực (Sector) nào có doanh thu (Revenue) cao nhất? - vẽ biểu đồ thể hiện
+=> Lĩnh vực nào đang có sự phát triển mạnh mẽ nhất
+3. Top 15 Data Science Job
+4. Top 20 công ty có số lượng việc làm cao nhất trong ngành Data Science
