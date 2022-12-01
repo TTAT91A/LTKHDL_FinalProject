@@ -1,0 +1,5 @@
+
+1. Nhu cầu của mỗi ngành công nghiệp đối với Data Sciencetist
+	=> Hiểu được dữ liệu quan trọng với rất nhiều loại ngành nghề.
+2. Mức lương trung bình, thấp nhất và cao nhất đối với Data Sciencetist => Giúp thấy được cái nhìn tổng quan về nguồn thu nhập mà ngành có thể mang lại.
+3. Top Revenue,top size, top rating => Đánh giá được công ty lớn.
