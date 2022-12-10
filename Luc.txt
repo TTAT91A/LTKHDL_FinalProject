@@ -1,0 +1,13 @@
+Khó khăn khi làm đồ án: 
+	+ Đa số cách xử lý đã được học trước trong các lab thực hành nên ít gặp phải khó khăn khi xử lý dữ liệu.
+	+ Dữ liệu hơi ít cột để nghĩ ra câu hỏi sáng tạo.
+	+ Đối với loại dữ liệu số thì đơn vị quá lớn và có 1 số giá trị less than và more theo em thì xử lý vẫn chưa phù hợp vì sai số đơn vị vẫn còn lớn
+Những điều học được khi làm đồ án: 
+	+ Sử dụng git nhiều nhánh
+	+ Thay thế đa số for = các hàm có thể sử dụng trong thư viện
+	+ Được ôn tập lại kiến thức về các thư viện đã học
+	+ Học được cách phân tích đơn giản 1 bộ dữ liệu.
+Nếu có thêm thời gian thì: 
+	+ Tìm cách xử lý phù hợp hơn đối với 1 số kiểu dữ liệu của cột.
+	+ Nghĩ thêm 1 số câu hỏi khác để phân tích bộ dữ liệu.
+ 
