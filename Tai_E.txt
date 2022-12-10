@@ -1,0 +1,12 @@
+﻿1. Khó khăn
+- Lúc mới bắt đầu làm thì chưa biết xử lí dữ liệu thô như thế nào.
+- Chưa thể khai thác tốt dữ liệu để đưa ra các câu hỏi hay
+- Còn khó khăn trong việc sử dụng các thư viện để trực quan hóa dữ liệu
+2. Học được
+- Cách phối hợp làm việc nhóm với các bạn 
+- Cơ bản xử lí được dữ liệu thô 
+- Cách xây dựng 1 file notebook logic như trong các lab đã làm trong thực hành 
+- Kết hợp các thư viện xử lí dữ liệu vs các thư viện trực quan dữ liệu
+3. Nếu có nhiều thời gian hơn.
+- Sẽ tự học cách cào dữ liệu trên 1 trang web về
+- Đưa ra các câu hỏi hay và ý nghĩa hơn cho khối dữ liệu này
